@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rehma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rehma\\.nuget\\packages"
+    ]
+  }
+}
