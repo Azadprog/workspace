@@ -1,0 +1,13 @@
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\bin\Debug\netcoreapp3.1\project01.exe
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\bin\Debug\netcoreapp3.1\project01.deps.json
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\bin\Debug\netcoreapp3.1\project01.runtimeconfig.json
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\bin\Debug\netcoreapp3.1\project01.runtimeconfig.dev.json
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\bin\Debug\netcoreapp3.1\project01.dll
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\bin\Debug\netcoreapp3.1\project01.pdb
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\obj\Debug\netcoreapp3.1\project01.AssemblyInfoInputs.cache
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\obj\Debug\netcoreapp3.1\project01.AssemblyInfo.cs
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\obj\Debug\netcoreapp3.1\project01.csproj.CoreCompileInputs.cache
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\obj\Debug\netcoreapp3.1\project01.dll
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\obj\Debug\netcoreapp3.1\project01.pdb
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\obj\Debug\netcoreapp3.1\project01.genruntimeconfig.cache
+C:\Users\rehma\Documents\workspace\software-design\c#\project01\obj\Debug\netcoreapp3.1\project01.csprojAssemblyReference.cache
